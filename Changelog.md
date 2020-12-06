@@ -37,3 +37,4 @@ All notable changes to this project will be documented in this file.
         - Fotografie
         - Huisstijldragers
         - Merk, historie en achtergrondinformatie
+    - Typografie toegevoegd
