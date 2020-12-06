@@ -28,5 +28,12 @@ All notable changes to this project will be documented in this file.
 - WooCommerce plugin geïnstalleerd
 - Easy Google Fonts plugin geïnstalleerd
 - Huisstijl handboek gemaakt
-    - Huisstijl fonts 
-    - Huisstijl kleuren
+    - Inhoudsopgave gemaakt
+        - Logo gebruik
+        - Pay-off/Slogan gebruik
+        - Kleurgebruik
+        - Typografie
+        - Stijlelementen
+        - Fotografie
+        - Huisstijldragers
+        - Merk, historie en achtergrondinformatie
