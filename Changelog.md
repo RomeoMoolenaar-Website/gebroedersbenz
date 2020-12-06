@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 - SFTP verbinding gemaakt met database en Filezilla
 - Trello account aangemaakt
 
-## [1.0.1] - 2020-12-05
+## [1.0.1.a] - 2020-12-05
 ### Added
 - Wordpress geïnstalleerd
 - Database aangemaakt
@@ -19,3 +19,14 @@ All notable changes to this project will be documented in this file.
 - Favicon toegevoegd aan website (klein icoontje bovenin bij het tabblad) 
 - Trello pagina aangepast
 - Github Pagina aangemaakt voor de changelog
+
+## [1.0.1.b] - 2020-12-06
+### Added
+- WPForms plugin geïnstalleerd
+- Yoast SEO plugin geïnstalleerd
+- WP Super Cache plugin geïnstalleerd
+- WooCommerce plugin geïnstalleerd
+- Easy Google Fonts plugin geïnstalleerd
+- Huisstijl handboek gemaakt
+- - Huisstijl fonts 
+- - Huisstijl kleuren
