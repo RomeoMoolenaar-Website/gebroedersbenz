@@ -39,7 +39,7 @@ All notable changes to this project will be documented in this file.
         - Merk, historie en achtergrondinformatie
     - Typografie toegevoegd
 
-## [1.0.2] - 2020-12-09
+## [2.0.0] - 2020-12-09
 ### Removed
 - Wordpress installatie met alle plugins
 - Alle pagina's
