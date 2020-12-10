@@ -38,3 +38,30 @@ All notable changes to this project will be documented in this file.
         - Huisstijldragers
         - Merk, historie en achtergrondinformatie
     - Typografie toegevoegd
+
+## [1.0.2] - 2020-12-09
+### Removed
+- Wordpress installatie met alle plugins
+- Alle pagina's
+- Afbeeldingen in mediatheek
+
+### Added
+- Wordpress geïnstalleerd
+- SSL plugin geïnstalleerd
+- Homepagina gemaakt
+- Menu gemaakt
+- Logo met tekst en logo
+- Website
+    - Homepagina
+        - Landing
+        - Wie zijn wij?
+        - Divider
+        - Diensten
+        - Fullwidth call to action
+        - Footer
+    - Over ons
+        - Landing
+        - Over ons sectie
+    - Coming Soon Page
+        - Opzet
+        - Contactformulier
