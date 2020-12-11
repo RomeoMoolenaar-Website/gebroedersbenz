@@ -65,3 +65,17 @@ All notable changes to this project will be documented in this file.
     - Coming Soon Page
         - Opzet
         - Contactformulier
+
+## [2.0.1] - 2020-12-10
+### Added
+- Website
+    - Homepagina
+        - Aanpassingen 
+    - Footer
+        - Aangepast
+        - Contactformulier toegevoegd
+    - Over ons pagina
+        - Verder uitgewerkt
+
+### Other 
+- Datum geprikt om samen te komen om de website te bespreken (12-12-2020 ~ 11:00 uur)
